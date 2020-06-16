@@ -1,4 +1,4 @@
-name: Android CI
+drsamr: Android CI
 
 on:
   push:
